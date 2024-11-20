@@ -39,7 +39,7 @@ Senior Software Development Engineer with 6+ years of experience in building sca
 - 🚀 Increased user engagement by 40% in previous projects
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balisaikiran)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saiashok49@gmail.com)
 [![Phone](https://img.shields.io/badge/-Phone-green?style=flat-square&logo=phone&logoColor=white)](tel:+919041174022)
 
